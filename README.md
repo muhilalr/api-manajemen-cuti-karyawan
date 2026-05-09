@@ -533,7 +533,7 @@ api-sistem-cuti-karyawan/
 
 Dokumentasi lengkap API tersedia di Postman:
 
-🔗 **[Link Postman Documentation](#https://documenter.getpostman.com/view/37672093/2sBXqNmJPa)**
+🔗 **[Link Postman Documentation](https://documenter.getpostman.com/view/37672093/2sBXqNmJPa)**
 
 ---
 
